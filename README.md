@@ -1,2 +1,3 @@
-# ai
-AI Ansible Collection
+# Ansible Collection - kimjarvis.ai
+
+Documentation for the collection.
