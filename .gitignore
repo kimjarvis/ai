@@ -1,6 +1,7 @@
 # Exclude ansible collection artifact 
 *.tar.gz
 *.DS_Store
+docs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
