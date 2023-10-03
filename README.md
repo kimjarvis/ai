@@ -1,3 +1,3 @@
 # Ansible Collection - kimjarvis.ai
 
-Documentation for the collection.
+A collection of roles and plugins for the Langchain and Hugging Face APIs.
