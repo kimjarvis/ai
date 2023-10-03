@@ -1,0 +1,4 @@
+---
+- name: Task is running from within the collection
+  ansible.builtin.debug:
+    msg: "This is a task from kimjarvis.ai.basic_role."
